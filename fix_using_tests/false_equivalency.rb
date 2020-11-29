@@ -17,7 +17,7 @@ def selection(1)
   elsif num == 2
     puts  "HAM HAM HAM IN MY TUMMY"
   end
-  binding.pry
+
   def runner
       puts "prompt_user"
     puts "selection(get_user_input)"

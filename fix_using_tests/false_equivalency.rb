@@ -18,7 +18,7 @@ def selection(num)
   end
   def runner
 
-    "selection(get_user_input)"
+    puts "selection(get_user_input)"
 
 end
 

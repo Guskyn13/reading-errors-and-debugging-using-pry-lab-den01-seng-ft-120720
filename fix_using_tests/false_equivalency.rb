@@ -7,6 +7,3 @@ def selection (num)
   elsif num == 2
     puts  "HAM HAM HAM IN MY TUMMY"
   end
-
-
-end

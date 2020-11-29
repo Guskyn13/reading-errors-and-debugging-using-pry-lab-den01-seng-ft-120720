@@ -8,6 +8,7 @@ def prompt_user
    "What would you like to do?"
    "1.) Eat a hamburger."
    "2.) Eat a ham."
+   binding.pry
 end
 
 def selection(num)

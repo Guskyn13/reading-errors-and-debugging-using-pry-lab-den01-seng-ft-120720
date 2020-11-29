@@ -1,4 +1,3 @@
-require 'pry'
 
 def get_user_input
   puts "gets.chomp"

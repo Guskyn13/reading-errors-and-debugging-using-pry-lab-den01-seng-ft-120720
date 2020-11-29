@@ -2,6 +2,7 @@ require 'pry'
 
 def get_user_input
   puts "gets.chomp"
+end
 
 
 def prompt_user
@@ -17,7 +18,7 @@ def selection(num)
     puts  "HAM HAM HAM IN MY TUMMY"
   end
   def runner
-
+      puts "prompt_user"
     puts "selection(get_user_input)"
 
 end

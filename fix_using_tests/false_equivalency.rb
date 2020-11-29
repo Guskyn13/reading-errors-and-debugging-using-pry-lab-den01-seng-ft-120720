@@ -22,4 +22,3 @@ def selection(1)
     puts "selection(get_user_input)"
 
 end
-

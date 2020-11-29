@@ -2,7 +2,7 @@ require 'pry'
 
 def get_user_input
   puts "gets.chomp"
-end
+
 
 def prompt_user
    "What would you like to do?"

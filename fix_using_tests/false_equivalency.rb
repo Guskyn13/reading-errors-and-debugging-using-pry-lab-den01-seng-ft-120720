@@ -1,9 +1,5 @@
 require 'pry'
 
-
-
-
-
 def selection (num)
 num=1
   if num == 1

@@ -21,5 +21,5 @@ end
 
 def runner
   puts "prompt_user"
-  puts "selection(get_user_input)"
+  puts selection(get_user_input)
 end

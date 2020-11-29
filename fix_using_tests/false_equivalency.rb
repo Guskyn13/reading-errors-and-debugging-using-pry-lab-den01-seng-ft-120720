@@ -2,6 +2,7 @@ require 'pry'
 
 def get_user_input
   puts "gets.chomp"
+  binding.pry
 end
 
 def prompt_user

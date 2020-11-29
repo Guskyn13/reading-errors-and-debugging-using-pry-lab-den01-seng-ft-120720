@@ -18,5 +18,9 @@ def selection(num)
     puts  "HAM HAM HAM IN MY TUMMY"
   end
 
+  def runner
+      puts "prompt_user"
+    puts "selection(get_user_input)"
 
+end
 end

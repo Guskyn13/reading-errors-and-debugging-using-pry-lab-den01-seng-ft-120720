@@ -5,9 +5,9 @@ def get_user_input
 end
 
 def prompt_user
-  puts "What would you like to do?"
-  puts "1.) Eat a hamburger."
-  puts "2.) Eat a ham."
+   "What would you like to do?"
+   "1.) Eat a hamburger."
+   "2.) Eat a ham."
 end
 
 def selection(num)
@@ -20,6 +20,6 @@ def selection(num)
   end
 
 def runner
-  puts "prompt_user"
-  puts selection(get_user_input)
+     "prompt_user"
+  selection(get_user_input)
 end

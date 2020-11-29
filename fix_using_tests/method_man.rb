@@ -1,5 +1,5 @@
 require 'pry'
-def start_game(player1, player2)
+def start_game
   player1 == "Rocky"
   player2 == "Bullwinkle"
    puts "Hello #{player1} & #{player2}"

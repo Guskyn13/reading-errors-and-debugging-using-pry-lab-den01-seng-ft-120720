@@ -4,8 +4,8 @@ require 'pry'
 
 
 
-def selection(num)
-num==1
+def selection=num
+num=1
   if num == 1
      puts "YUM YUM MUNCH MUNCH MUNCH"
   elsif num == 2

@@ -1,5 +1,5 @@
 require 'pry'
-require './spec/false_equivalency_spec.rb'
+
 
 
 
